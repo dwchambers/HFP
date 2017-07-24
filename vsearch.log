@@ -1,0 +1,3 @@
+ImmutableMultiDict([('phrase', 'here is the first test'), ('letters', 'qrst')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36|['r', 's', 't']
+ImmutableMultiDict([('phrase', 'and the second test'), ('letters', 'asd')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36|['a', 'd', 's']
+ImmutableMultiDict([('phrase', 'and finally the third'), ('letters', 'xyz')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36|['y']
